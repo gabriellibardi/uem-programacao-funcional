@@ -1,3 +1,6 @@
+// aça uma função chamada area_retangulo que recebe dois argumentos,
+// a largura e a altura de um retângulo, e calcula a sua área.
+
 import gleam/io
 
 pub fn main() {

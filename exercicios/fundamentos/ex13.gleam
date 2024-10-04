@@ -1,3 +1,6 @@
+// Faça uma função chamada produto_anterior_posterior que recebe 
+// um número inteiro n e calcula o produto de n, n + 1 e n - 1.
+
 import gleam/io
 
 pub fn main() {
