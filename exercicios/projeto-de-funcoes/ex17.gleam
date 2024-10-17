@@ -3,7 +3,7 @@ import sgleam/check
 /// Aumenta o *valor* em *porcentagem* por cento dele próprio.
 /// Requer que o valor e a porcentagem sejam valores com ponto flutuante positivos.
 pub fn aumenta(valor: Float, porcentagem: Float) -> Float {
-  valor *. {1.0 +. porcentagem /. 100.0}
+  valor *. { 1.0 +. porcentagem /. 100.0 }
 }
 
 pub fn aumenta_examples() {
