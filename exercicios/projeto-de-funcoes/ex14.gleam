@@ -1,6 +1,6 @@
-import sgleam/check
 import gleam/int
 import gleam/string
+import sgleam/check
 
 /// Conta a quantidade de dígitos de *n*.
 /// Se *n* é 0, então devolve zero.
