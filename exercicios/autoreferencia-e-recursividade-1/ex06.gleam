@@ -2,7 +2,7 @@
 
 import sgleam/check
 
-// Concatena todas as strings de *lista*.
+/// Concatena todas as strings de *lista*.
 pub fn concatena_strings(lista: List(String)) -> String {
   case lista {
     [] -> ""
